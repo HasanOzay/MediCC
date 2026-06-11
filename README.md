@@ -90,6 +90,6 @@ Author
 Hasan Özay
 
 
-GitHub: @YOUR_USERNAME
+GitHub: @HasanOzay
 Email: hasanozay0405@gmail.com
 Location: Düzce, Türkiye
